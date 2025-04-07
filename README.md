@@ -1,2 +1,0 @@
-# aquacardclaim
-My awesome repository
